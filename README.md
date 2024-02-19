@@ -1,1 +1,1 @@
-# Hotels_website_project
+# Hotel_website_project
